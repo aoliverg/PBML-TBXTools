@@ -1,0 +1,627 @@
+60	financial interests
+46	legal person
+38	private sector
+35	money laundering
+27	legal persons
+25	criminal law
+19	civil society
+18	law enforcement
+17	corruption policies
+17	passive corruption
+16	necessary measures
+16	corruption cases
+15	other bodies
+15	personal data
+15	corruption instruments
+14	public officials
+14	corrupt practices
+14	public procurement
+13	candidate countries
+13	national law
+12	reporting mechanism
+12	corruption efforts
+12	competent authorities
+11	best practices
+11	political will
+11	legal framework
+10	good governance
+10	voting rights
+10	corruption policy
+10	expert group
+10	research correspondents
+10	other illegal activity
+10	internal investigations
+10	compliance reports
+9	rule of law
+8	third countries
+8	international organisations
+8	national competent authority
+8	criminal proceedings
+8	general principles
+8	political corruption
+8	police cooperation
+8	international level
+8	monitoring mechanism
+8	legal instruments
+8	relevant person
+7	illegal activity
+7	limited voting right
+7	natural person
+7	cases of corruption
+7	inspection teams
+7	co - operation
+7	preliminary rulings
+7	joint supervisory team
+7	international cooperation
+7	potential candidates
+7	supervisory teams
+7	political parties
+7	codes of conduct
+7	criminal offence
+7	judicial cooperation
+7	outstanding recommendations
+7	site inspection
+7	site inspection team
+7	conflict of interest
+7	limited voting
+7	cases of fraud
+7	evaluation mechanisms
+7	foreign public official
+6	corruption reporting
+6	financial investigations
+6	organised crime
+6	financial system
+6	serious cases
+6	corruption standards
+6	national legislation
+6	procurement procedures
+6	such information
+6	criminal offences
+6	human rights
+6	relevant authorities
+6	interest groups
+6	data protection
+6	policy areas
+6	comparative analysis
+6	corruption reporting mechanism
+6	public administration
+5	multiannual financial framework
+5	corruption offences
+5	crime groups
+5	conflicts of interest
+5	protection of whistleblower
+5	exchange of information
+5	other interest
+5	international business transaction
+5	credit institutions
+5	specific provisions
+5	corrupt behaviour
+5	other interest group
+5	forms of corruption
+5	business transactions
+5	public services
+5	effective implementation
+5	civil servants
+5	legal assistance
+5	international business
+5	professional secrecy
+5	illegal activities
+5	statutory audit
+5	such data
+5	financial framework
+5	international legal instrument
+5	third parties
+5	technical assistance
+5	public sector
+5	national authorities
+5	predicate offences
+5	recent years
+5	internal investigation
+5	specific objectives
+4	sharing programme
+4	experience sharing
+4	relevant persons
+4	mutual legal assistance
+4	states parties
+4	public interest
+4	corruption network
+4	partial agreements
+4	international trade
+4	civil society organisation
+4	criminal matters
+4	partner countries
+4	experience sharing programme
+4	modalities of participation
+4	information exchange
+4	action plan
+4	particular relevance
+4	full membership
+4	passive bribery
+4	third party
+4	stronger focus
+4	internal market
+4	area of freedom
+4	level of protection
+4	network of research
+4	minimum rules
+4	evaluation reports
+4	proceeds of crime
+4	asset recovery
+4	relevant provisions
+4	international instruments
+4	criminal liability
+4	local research correspondent
+4	administrative investigations
+4	private corruption
+4	practical arrangements
+4	criminal penalties
+4	business activities
+4	society organisations
+4	national level
+4	fraudulent acts
+4	further action
+4	other servants
+4	judicial authorities
+4	conditions of employment
+4	preventive measures
+4	undue advantage
+4	budget lines
+4	specific tasks
+4	individual credit
+4	political commitment
+4	local research
+4	greater use
+4	mutual evaluation
+4	interinstitutional agreement
+4	evaluation report
+4	specific areas
+4	observer status
+4	institutional capacity
+3	corruption issues
+3	specific features
+3	peer learning
+3	serious wrongdoings
+3	private sector corruption
+3	other countries
+3	border dimension
+3	removal of instrument
+3	joint programme
+3	same time
+3	public money
+3	individual credit institution
+3	relevant information
+3	training programmes
+3	contracting authority
+3	tax deductibility
+3	opening of negotiation
+3	effective enforcement
+3	Public procurement
+3	auditing standards
+3	fundamental freedoms
+3	public official
+3	law sense
+3	sector corruption
+3	private sectors
+3	border implications
+3	special nature
+3	active corruption
+3	law enforcement authority
+3	policy actions
+3	fraudulent act
+3	corruption authorities
+3	Belgian companies
+3	confidentiality of investigation
+3	exceptional cases
+3	evaluation system
+3	contractual liability
+3	professional duties
+3	evaluation process
+3	natural persons
+3	key element
+3	law provisions
+3	comprehensive approach
+3	time of ratification
+3	investigative techniques
+3	new action
+3	prevention of fraud
+3	corrupt activities
+3	other third country
+3	external aid
+3	regular basis
+3	transfer of information
+3	European professional association
+3	enlarged agreements
+3	legal instrument
+3	Belgian government
+3	important role
+3	party financing
+3	corruption strategies
+3	first protocol
+3	later stage
+3	distortion of competition
+3	contact points
+3	national functions
+3	other sanctions
+3	proceeds of corruption
+3	social partners
+3	financial crime
+3	minimum standards
+3	exchange markets
+3	relevant rules
+3	criminal law sense
+3	duplication of effort
+3	various forms
+3	enforcement authorities
+3	service contracts
+3	sector entity
+3	relevant sources
+3	criminal law provision
+3	public international organisation
+3	capacity building
+3	enforcement measures
+3	public administrations
+3	extent of corruption
+3	development policies
+3	review mechanism
+3	same effect
+3	members of institution
+3	political dialogue
+3	political leverage
+3	financial control
+3	legal effect
+3	physical offender
+3	government procurement
+3	track record
+3	corruption scandals
+3	professional associations
+3	areas of activity
+3	evaluation round
+3	country visits
+3	dissuasive penalties
+3	ratification process
+3	particular importance
+2	free movement
+2	law enforcement body
+2	basis of article
+2	first paragraph
+2	first step
+2	public bodies
+2	partner entities
+2	number of cross
+2	only way
+2	subject specific assessment
+2	members of staff
+2	Specific objective
+2	economic crimes
+2	full text
+2	Examples of fraud
+2	alleged breach
+2	necessary political will
+2	business area
+2	consequences of corruption
+2	Stronger focus
+2	institutional setting
+2	necessary steps
+2	level of safety
+2	different areas
+2	political engagement
+2	expenditure budget
+2	meaning of article
+2	public contracts
+2	criminal justice
+2	co - ordination
+2	transparent rules
+2	social partner entity
+2	additional political will
+2	public works
+2	own nationals
+2	law enforcement official
+2	monetary policy decision
+2	parliamentary term
+2	Action plan
+2	disclosure of information
+2	thorough scrutiny
+2	specific aspects
+2	whole series
+2	joint action
+2	social partner
+2	good practice
+2	civil law
+2	corruption case
+2	constituent elements
+2	good management
+2	first evaluation
+2	political party financing
+2	private gain
+2	serious crime
+2	lack of supervision
+2	common standards
+2	applicable national law
+2	purchase of good
+2	procurement legislation
+2	international monitoring
+2	risks of corruption
+2	business practices
+2	terrorist financing
+2	fiscal exception
+2	full voting
+2	point network
+2	possible cases
+2	law enforcement measure
+2	public finances
+2	other persons
+2	second subparagraph
+2	crime statistics
+2	essential elements
+2	public affairs
+2	corruption agencies
+2	sources of information
+2	breach of duty
+2	various levels
+2	heads of office
+2	combat corruption
+2	development policy
+2	future initiatives
+2	late 1990s
+2	equivalent failure
+2	second protocol
+2	serious corruption
+2	formal invitation
+2	consolidated accounts
+2	comparative reports
+2	mutual assistance
+2	abuse of power
+2	potential impact
+2	interested party
+2	form of membership
+2	enforcement officials
+2	part of member
+2	criminal organisation
+2	political weight
+2	commercial services
+2	criminal law instrument
+2	first subparagraph
+2	economic decisions
+2	transnational investigations
+2	relevant national authority
+2	additional burden
+2	public servants
+2	prior verification
+2	departmental working group
+2	GRECO recommendations
+2	administrative investigation
+2	policy decisions
+2	enlargement process
+2	other areas
+2	additional impetus
+2	other relevant source
+2	technical specifications
+2	budgetary issues
+2	targeted calls
+2	detection of corruption
+2	Accounting standards
+2	new millennium
+2	good practices
+2	subordinate employee
+2	euro banknotes
+2	acts of corruption
+2	power of representation
+2	scope of money
+2	society input
+2	internal audit
+2	working group
+2	civil society input
+2	professional activities
+2	institutional framework
+2	narrower criminal law
+2	other international organisation
+2	speedy ratification
+2	appropriate measures
+2	first reading
+2	systemic problems
+2	clear rules
+2	internal policies
+2	specific assessments
+2	legal action
+2	foreign exchange market
+2	public office
+2	professional misconduct
+2	legal bases
+2	financial statements
+2	first Report
+2	international procurement
+2	period of time
+2	financial intelligence
+2	further development
+2	indirect financial benefit
+2	purpose of money
+2	Community rules
+2	such persons
+2	appropriate work
+2	special investigative technique
+2	early stages
+2	former Members
+2	deductibility of bribe
+2	obligations of official
+2	individual case
+2	count of corruption
+2	international companies
+2	practical guide
+2	last resort
+2	point of view
+2	monitoring process
+2	governmental organisations
+2	twentieth day
+2	definition of fraud
+2	business contacts
+2	foreign exchange
+2	neighbourhood countries
+2	transborder corruption
+2	law instruments
+2	effective measures
+2	use of conditionality
+2	income Members
+2	mutual recognition
+2	full voting right
+2	direct research
+2	enlarged partial agreement
+2	specific obligation
+2	public procurement legislation
+2	subsequent participation
+2	repressive measures
+2	arrest warrant
+2	European arrest warrant
+2	Technical assistance
+2	definition of corruption
+2	relevant waiver
+2	pact of silence
+2	term of office
+2	sub - objective
+2	supervisory authority
+2	European level
+2	common definition
+2	data processing
+2	few companies
+2	key issue
+2	additional measures
+2	dissuasive criminal penalty
+2	member country
+2	European arrest
+2	criminal prosecution
+2	business activity
+2	visa liberalisation
+2	Relevant persons
+2	public procurement policy
+2	code of conduct
+2	procurement policy
+2	legal obligations
+2	financial crisis
+2	STAFF REGULATIONS
+2	fair competition
+2	civil society assessment
+2	election spending
+2	corresponding amounts
+2	joint investigations
+2	same degree
+2	investigative powers
+2	other public body
+2	proper functioning
+2	financial benefit
+2	outside activity
+2	implementation report
+2	effective cooperation
+2	political group
+2	such programme
+2	same conditions
+2	legal proceedings
+2	particular project
+2	other reward
+2	full range
+2	cohesion policy
+2	security features
+2	international standards
+2	double criminality
+2	private bribery
+2	main partners
+2	administrative assistance
+2	national police
+2	public service
+2	other hand
+2	close cooperation
+2	external policies
+2	case basis
+2	partial agreement
+2	practical feasibility
+2	domestic law
+2	political party
+2	departmental working
+2	accounting standards
+2	common definitions
+2	political agreement
+2	prevention of corruption
+2	similar benefits
+2	foreign officials
+2	natural resources
+2	monitoring mechanisms
+2	statutory audits
+2	government contracts
+2	confiscation of proceed
+2	Candidate countries
+2	public procurement procedure
+2	information procedures
+2	political scandals
+2	respective fields
+2	overall strategy
+2	democratic institutions
+2	corruption package
+2	training of law
+2	further delay
+2	common positions
+2	peer review
+2	corruption trends
+2	foreign reserves
+2	paragraphs of article
+2	public bribery
+2	monetary policy
+2	mutual benefits
+2	society assessments
+2	corruption legal framework
+2	several features
+2	other stakeholders
+2	other forms
+2	degree of corruption
+2	higher standards
+2	wide range
+2	criminal assets
+2	provision of information
+2	specific cases
+2	specific conditions
+2	public tender
+2	course of business
+2	courtesy usage
+2	WORK OF GRECO
+2	series of protocol
+2	such status
+2	serious matters
+2	corporate liability
+2	prudential supervision
+2	high level
+2	form of participation
+2	limited participation
+2	budgetary contribution
+2	indirect research
+2	judicial authority
+2	public dialogue
+2	corruption legislation
+2	staff members
+2	prosecution of corruption
+2	official capacity
+2	administrative capacity
+2	supervision of credit
+2	such corruption
+2	long term
+2	GRECO evaluations
+2	dissuasive sanctions
+2	corruption reforms
+2	new rules
+2	national bodies
+2	Anti - corruption
+2	concept of corruption
+2	legal protection
+2	intentional act
+2	corruption legal instrument
+2	combating of corruption
+2	consultation procedure
+2	protection of individual
+2	public authorities
+2	quality management
+2	protection rules
+2	additional tenths
+2	such cases
+2	enforcement bodies
+2	incomplete statements
+2	proper management
+2	second report
+2	petty corruption
+2	corporate responsibility
+2	corruption measures

@@ -1,0 +1,6 @@
+#||NOUN #||NOUN
+#||ADJ #||NOUN
+#||NOUN #||NOUN |#|NOUN
+#||ADJ #||NOUN |#|NOUN
+#||ADJ #||ADJ |#|NOUN 
+#||NOUN #|of|ADP |#|NOUN
