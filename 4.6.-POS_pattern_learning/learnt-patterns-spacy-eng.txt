@@ -1,0 +1,10 @@
+46	|#|ADJ |#|NOUN
+24	|#|ADJ #||NOUN
+24	|#|NOUN |#|ADP |#|NOUN
+16	|#|NOUN #||NOUN
+14	|#|NOUN |#|NOUN
+12	|#|ADJ |#|NOUN |#|NOUN
+6	#||NOUN |#|ADP |#|NOUN
+6	|#|NOUN |#|ADP #||NOUN
+3	#||VERB |#|ADJ |#|NOUN
+3	#||NOUN |#|ADP #||NOUN

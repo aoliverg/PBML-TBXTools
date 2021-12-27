@@ -1,0 +1,12 @@
+42	|#|JJ |#|NN
+24	|#|JJ #||NNS
+24	|#|NN |#|IN |#|NN
+16	|#|NN #||NNS
+12	|#|JJ |#|NN |#|NN
+8	|#|NN |#|NN
+6	#||NNS |#|IN |#|NN
+6	|#|NN |#|IN #||NNS
+3	#||VBN |#|JJ |#|NN
+3	#||NNS |#|IN #||NNS
+3	#||VBN |#|NN #||NNS
+2	|#|NN #||VBG

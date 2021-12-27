@@ -1,0 +1,17 @@
+50	#||NOUN #||ADJ
+30	|#|NOUN |#|ADJ
+24	|#|NOUN #||ADJ
+21	|#|NOUN |#|ADP |#|NOUN
+12	|#|NOUN #||ADP #||NOUN
+12	#||NOUN |#|ADP |#|NOUN
+8	|#|NOUN |#|NOUN
+6	|#|NOUN #||ADP |#|NOUN
+6	|#|NOUN #||ADJ #||VERB
+6	|#|NOUN |#|ADP #||NOUN
+4	|#|NOUN #||VERB
+4	|#|NOUN |#|VERB
+4	#||NOUN |#|ADJ
+3	|#|NOUN #||ADJ #||ADJ
+3	#||NOUN #||ADJ |#|NOUN
+3	|#|NOUN |#|ADV #||ADJ
+3	|#|NOUN #||ADJ |#|ADJ
