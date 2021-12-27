@@ -1,0 +1,52 @@
+\begin{table*}[ht]
+\begin{center}
+\begin{small}
+\begin{tabular}{|l|r|r|r|r|r|r|r|r|}
+\hline
+\rotatebox[origin=c]{90}{\textbf{ Position }} & otatebox[origin=c]{90}{\textbf{ raw\_freq }} & otatebox[origin=c]{90}{\textbf{ student\_t }} & otatebox[origin=c]{90}{\textbf{ chi\_sq }} & otatebox[origin=c]{90}{\textbf{ mi\_like }} & otatebox[origin=c]{90}{\textbf{ likelihood\_ratio }} &  otatebox[origin=c]{90}{\textbf{ poisson\_stirling }} & otatebox[origin=c]{90}{\textbf{ pmi }} & otatebox[origin=c]{90}{\textbf{ jaccard }}\\
+\hline
+10 & 20.0 & 20.0 & 1.48 & 20.0 & 1.44 & 30.0 & 1.32 & 20.0\\
+\hline
+50 & 22.39 & 22.0 & 2.08 & 8.0 & 2.09 & 18.0 & 2.08 & 8.0\\
+\hline
+100 & 16.04 & 16.0 & 2.28 & 10.0 & 2.29 & 13.0 & 2.29 & 6.0\\
+\hline
+200 & 12.2 & 12.5 & 2.46 & 8.5 & 2.46 & 12.0 & 2.48 & 4.0\\
+\hline
+500 & 6.9 & 6.6 & 4.4 & 6.4 & 4.4 & 6.8 & 4.2 & 3.8\\
+\hline
+1000 & 5.44 & 5.44 & 5.3 & 5.44 & 5.5 & 5.44 & 5.3 & 5.44\\
+\hline
+1022 & 5.38 & 5.38 & 5.38 & 5.38 & 5.38 & 5.38 & 5.38 & 5.38\\
+\hline
+\end{tabular}
+\end{small}
+\end{center}
+\caption{\label{TABLEX} PRECISION DESCRIPTION.}
+\end{table*}
+\begin{table*}[ht]
+\begin{center}
+\begin{small}
+\begin{tabular}{|l|r|r|r|r|r|r|r|r|}
+\hline
+\rotatebox[origin=c]{90}{\textbf{ Position }} & otatebox[origin=c]{90}{\textbf{ raw\_freq }} & otatebox[origin=c]{90}{\textbf{ student\_t }} & otatebox[origin=c]{90}{\textbf{ chi\_sq }} & otatebox[origin=c]{90}{\textbf{ mi\_like }} & otatebox[origin=c]{90}{\textbf{ likelihood\_ratio }} &  otatebox[origin=c]{90}{\textbf{ poisson\_stirling }} & otatebox[origin=c]{90}{\textbf{ pmi }} & otatebox[origin=c]{90}{\textbf{ jaccard }}\\
+\hline
+10 & 2.35 & 2.35 & 0.17 & 2.35 & 0.17 & 3.53 & 0.16 & 2.35\\
+\hline
+50 & 10.66 & 10.48 & 0.99 & 3.81 & 1.0 & 8.57 & 0.99 & 3.81\\
+\hline
+100 & 12.34 & 12.31 & 1.75 & 7.69 & 1.76 & 10.0 & 1.76 & 4.62\\
+\hline
+200 & 13.55 & 13.89 & 2.74 & 9.44 & 2.73 & 13.33 & 2.75 & 4.44\\
+\hline
+500 & 10.45 & 10.0 & 6.67 & 9.7 & 6.67 & 10.3 & 6.36 & 5.76\\
+\hline
+1000 & 9.38 & 9.38 & 9.14 & 9.39 & 9.48 & 9.38 & 9.14 & 9.38\\
+\hline
+1022 & 9.31 & 9.31 & 9.31 & 9.31 & 9.31 & 9.31 & 9.31 & 9.31\\
+\hline
+\end{tabular}
+\end{small}
+\end{center}
+\caption{\label{TABLEX} F1 DESCRIPTION.}
+\end{table*}
